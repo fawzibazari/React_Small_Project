@@ -1,0 +1,32 @@
+.hello {
+overflow: hidden;
+background-color: #791cf8;
+padding: 20px 10px;
+
+}
+.Boss {
+  float: right;
+  color:white;
+  background-color: #791cf8; 
+
+  width: 75px;
+  border-radius: 23%;
+  text-align: center;
+
+}
+.Boss:hover {
+  float: right;
+  color:#791cf8;
+  background-color: white; 
+
+  width: 75px;
+  border-radius: 23%;
+  
+}
+.Boss2 {
+  float: left;
+  color: white;
+  text-align: center;
+
+}
+

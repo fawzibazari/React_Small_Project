@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`print hello world to the user 1`] = `
+<p>
+  Hello world
+</p>
+`;

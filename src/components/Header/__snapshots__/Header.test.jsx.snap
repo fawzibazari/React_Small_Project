@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`print hello world to the user 1`] = `
+<header
+  class="hello"
+  data-testid="test_header"
+>
+  <p
+    class="Boss2"
+  />
+  <div
+    class="Boss"
+  >
+    <p />
+  </div>
+</header>
+`;

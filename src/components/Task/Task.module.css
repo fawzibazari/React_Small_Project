@@ -1,0 +1,25 @@
+.hi {
+  margin-top: 20px;
+      display: flex;
+      justify-content: space-between;
+      padding-right: 1vh;
+      padding-left: 1vh;
+      box-shadow: 10px 5px 5px rgb(117, 142, 158);
+      border: 2px solid #d2bdff;
+      height: 51px;
+      width: 200px;
+      border-radius: 4px;
+      color: #791cf8;
+      word-break: break-all;
+
+ 
+}
+.container {
+  justify-content: center;
+    display: flex;
+}
+.delete{
+  background-color: transparent;
+  color: #791cf8;
+  border: transparent;
+}
